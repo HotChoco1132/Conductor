@@ -17,7 +17,7 @@ To use Conductor, you first need to run the installer or unzip the ZIP file. the
 
 After getting conductor, it wont run after doing the installer. you will need to search for conductor in your start menu or go to your desktop and click the shortcut there.
 
-when opened, check the status. if it says "Roblox not opened", open roblox. Bloxstrap works too.
+when opened, check the status. if it says "Roblox not opened", open roblox. Bloxstrap works too. ⚠SOME VERSIONS OF CONDUCTOR DONT HAVE A STATUS LABEL!⚠
 
 after opening roblox, it should say "Conductor not injected". If it says that, dont inject it yet! You will need to join a game first.
 

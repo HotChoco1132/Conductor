@@ -19,10 +19,10 @@ After getting conductor, it wont run after doing the installer. you will need to
 
 when opened, check the status. if it says "Roblox not opened", open roblox. Bloxstrap works too. ⚠SOME VERSIONS OF CONDUCTOR DONT HAVE A STATUS LABEL!⚠
 
-after opening roblox, it should say "Conductor not injected". If it says that, dont inject it yet! You will need to join a game first.
+after opening roblox, it should say "Conductor not injected". If it says that, dont inject it yet! You will need to join a game first. ⚠SOME VERSIONS OF CONDUCTOR DONT HAVE A STATUS LABEL!⚠
 
 after joining a game, you may now inject. since it uses a different api (atleast as i am writing this), it will say cloud injected or something on the client, and should also popup a notification saying "Sucsessfully
-injected!". it should also change the status to injected. then you can get your script.
+injected!". it should also change the status to injected. then you can get your script. ⚠SOME VERSIONS OF CONDUCTOR DONT HAVE A STATUS LABEL!⚠
 
 once you have your script, press Execute. this will run the code to the client.
 
